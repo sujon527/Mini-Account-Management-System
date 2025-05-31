@@ -1,0 +1,12 @@
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\bin\Debug\net8.0\MiniAccountManagementSystem.DTO.deps.json
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\bin\Debug\net8.0\MiniAccountManagementSystem.DTO.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\bin\Debug\net8.0\MiniAccountManagementSystem.DTO.pdb
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.AssemblyInfoInputs.cache
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.AssemblyInfo.cs
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.csproj.CoreCompileInputs.cache
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.sourcelink.json
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\refint\MiniAccountManagementSystem.DTO.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\MiniAccountManagementSystem.DTO.pdb
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.DTO\obj\Debug\net8.0\ref\MiniAccountManagementSystem.DTO.dll

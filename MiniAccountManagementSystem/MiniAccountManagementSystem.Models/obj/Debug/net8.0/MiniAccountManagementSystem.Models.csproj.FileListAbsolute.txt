@@ -1,0 +1,16 @@
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\bin\Debug\net8.0\MiniAccountManagementSystem.Models.deps.json
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\bin\Debug\net8.0\MiniAccountManagementSystem.Models.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\bin\Debug\net8.0\MiniAccountManagementSystem.Models.pdb
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\bin\Debug\net8.0\MiniAccountManagementSystem.DTO.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\bin\Debug\net8.0\MiniAccountManagementSystem.DTO.pdb
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.csproj.AssemblyReference.cache
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.AssemblyInfoInputs.cache
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.AssemblyInfo.cs
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.csproj.CoreCompileInputs.cache
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.sourcelink.json
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAcco.DF74F697.Up2Date
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\refint\MiniAccountManagementSystem.Models.dll
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\MiniAccountManagementSystem.Models.pdb
+F:\Mini-Account-Management-System\MiniAccountManagementSystem\MiniAccountManagementSystem.Models\obj\Debug\net8.0\ref\MiniAccountManagementSystem.Models.dll

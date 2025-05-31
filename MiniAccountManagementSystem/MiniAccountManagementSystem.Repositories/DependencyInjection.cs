@@ -14,17 +14,12 @@ namespace MiniAccountManagementSystem.Repositories
     {
         public static IServiceCollection AddHiringActivityRepositories(this IServiceCollection Services, IConfiguration configuration)
         {
-
             string connectionString = configuration.GetConnectionString("AppConnectionString");
 
             Services.AddScoped<IAccountMangementDatabase>((provider) =>
             {
                 return new AccountMangementDatabase(connectionString);
             });
-
-
-
-
 
             return Services;
         }
