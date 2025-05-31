@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D11807F-B684-44BE-A989-D08DCC4B7050}|MiniAccountManagementSystem.DTO\\MiniAccountManagementSystem.DTO.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D11807F-B684-44BE-A989-D08DCC4B7050}|MiniAccountManagementSystem.DTO\\MiniAccountManagementSystem.DTO.csproj|solutionrelative:miniaccountmanagementsystem.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.repositories\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|solutionrelative:miniaccountmanagementsystem.repositories\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.repositories\\data\\accountmangementdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|solutionrelative:miniaccountmanagementsystem.repositories\\data\\accountmangementdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.repositories\\abstractions\\data\\iaccountmangementdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|solutionrelative:miniaccountmanagementsystem.repositories\\abstractions\\data\\iaccountmangementdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9778264F-835E-4726-85F5-5C9C93B8AF82}|MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj|solutionrelative:miniaccountmanagementsystem.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648EF02C-1525-455A-8C95-FA97687C766F}|MiniAccountManagementSystem.Handler\\MiniAccountManagementSystem.Handler.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.handler\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648EF02C-1525-455A-8C95-FA97687C766F}|MiniAccountManagementSystem.Handler\\MiniAccountManagementSystem.Handler.csproj|solutionrelative:miniaccountmanagementsystem.handler\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A543593-3DCB-4AEC-A48D-1DA7767C9776}|MiniAccountManagementSystem.Models\\MiniAccountManagementSystem.Models.csproj|f:\\mini-account-management-system\\miniaccountmanagementsystem\\miniaccountmanagementsystem.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A543593-3DCB-4AEC-A48D-1DA7767C9776}|MiniAccountManagementSystem.Models\\MiniAccountManagementSystem.Models.csproj|solutionrelative:miniaccountmanagementsystem.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.DTO\\Class1.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.DTO\\Class1.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:54:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountMangementDatabase.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\Data\\AccountMangementDatabase.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.Repositories\\Data\\AccountMangementDatabase.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\Data\\AccountMangementDatabase.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.Repositories\\Data\\AccountMangementDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:39:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountMangementDatabase.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\Abstractions\\Data\\IAccountMangementDatabase.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.Repositories\\Abstractions\\Data\\IAccountMangementDatabase.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\Abstractions\\Data\\IAccountMangementDatabase.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.Repositories\\Abstractions\\Data\\IAccountMangementDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:36:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.Repositories\\DependencyInjection.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\DependencyInjection.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.Repositories\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:26:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.Repositories\\Class1.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\Class1.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:07:11.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Handler\\Class1.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.Handler\\Class1.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Handler\\Class1.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.Handler\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:06:21.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "MiniAccountManagementSystem.Models\\Class1.cs",
+              "ToolTip": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Models\\Class1.cs",
+              "RelativeToolTip": "MiniAccountManagementSystem.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:05:13.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
