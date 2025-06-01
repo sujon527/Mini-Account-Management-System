@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniAccountMangementSystemController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fbaa2cbf232fbdfa7ae91e457e2fa66786f69f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f7cbbee8204af41519c53900d28b738ef0c9c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniAccountMangementSystemController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniAccountMangementSystemController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

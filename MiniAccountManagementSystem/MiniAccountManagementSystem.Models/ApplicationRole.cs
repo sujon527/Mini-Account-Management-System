@@ -1,19 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 
 namespace MiniAccountManagementSystem.Models
 {
-   public class ApplicationRole: IdentityRole<string>
+    public class ApplicationRole : IdentityRole<string>
     {
-     
-        
-            public string Description { get; set; }
-            
-        
+        public string? Description { get; set; }
+
+        // Default constructor ensures Id is auto-generated
+        public ApplicationRole() : base()
+        {
+            Id = Guid.NewGuid().ToString();
+        }
+
+        // Overloaded constructor to create with name and description
+        public ApplicationRole(string roleName, string description = null) : base(roleName)
+        {
+            Id = Guid.NewGuid().ToString();
+            Description = description;
+        }
     }
 }
