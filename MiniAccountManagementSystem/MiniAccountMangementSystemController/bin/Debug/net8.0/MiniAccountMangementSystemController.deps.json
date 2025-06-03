@@ -15,6 +15,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
+          "MiniAccountManagementSystem.Handler": "1.0.0",
           "MiniAccountManagementSystem.Repositories": "1.0.0"
         },
         "runtime": {
@@ -2149,6 +2150,18 @@
           }
         }
       },
+      "MiniAccountManagementSystem.Handler/1.0.0": {
+        "dependencies": {
+          "MiniAccountManagementSystem.Models": "1.0.0",
+          "MiniAccountManagementSystem.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "MiniAccountManagementSystem.Handler.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "MiniAccountManagementSystem.Models/1.0.0": {
         "dependencies": {
           "Microsoft.AspNet.Identity.EntityFramework": "2.2.4",
@@ -3351,6 +3364,11 @@
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
     "MiniAccountManagementSystem.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniAccountManagementSystem.Handler/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

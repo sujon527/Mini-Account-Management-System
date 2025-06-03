@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MiniAccountManagementSystem.Handler\MiniAccountManagementSystem.Handler.csproj" />
     <ProjectReference Include="..\MiniAccountManagementSystem.Repositories\MiniAccountManagementSystem.Repositories.csproj" />
   </ItemGroup>
 

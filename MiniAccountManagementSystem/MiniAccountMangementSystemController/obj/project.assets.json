@@ -2936,6 +2936,20 @@
           "bin/placeholder/MiniAccountManagementSystem.DTO.dll": {}
         }
       },
+      "MiniAccountManagementSystem.Handler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MiniAccountManagementSystem.Models": "1.0.0",
+          "MiniAccountManagementSystem.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MiniAccountManagementSystem.Handler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiniAccountManagementSystem.Handler.dll": {}
+        }
+      },
       "MiniAccountManagementSystem.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -7828,6 +7842,11 @@
       "path": "../MiniAccountManagementSystem.DTO/MiniAccountManagementSystem.DTO.csproj",
       "msbuildProject": "../MiniAccountManagementSystem.DTO/MiniAccountManagementSystem.DTO.csproj"
     },
+    "MiniAccountManagementSystem.Handler/1.0.0": {
+      "type": "project",
+      "path": "../MiniAccountManagementSystem.Handler/MiniAccountManagementSystem.Handler.csproj",
+      "msbuildProject": "../MiniAccountManagementSystem.Handler/MiniAccountManagementSystem.Handler.csproj"
+    },
     "MiniAccountManagementSystem.Models/1.0.0": {
       "type": "project",
       "path": "../MiniAccountManagementSystem.Models/MiniAccountManagementSystem.Models.csproj",
@@ -7848,6 +7867,7 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.11",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
+      "MiniAccountManagementSystem.Handler >= 1.0.0",
       "MiniAccountManagementSystem.Repositories >= 1.0.0"
     ]
   },
@@ -7883,6 +7903,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Handler\\MiniAccountManagementSystem.Handler.csproj": {
+              "projectPath": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Handler\\MiniAccountManagementSystem.Handler.csproj"
+            },
             "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj": {
               "projectPath": "F:\\Mini-Account-Management-System\\MiniAccountManagementSystem\\MiniAccountManagementSystem.Repositories\\MiniAccountManagementSystem.Repositories.csproj"
             }

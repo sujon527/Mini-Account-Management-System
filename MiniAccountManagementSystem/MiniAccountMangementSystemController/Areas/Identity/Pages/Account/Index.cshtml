@@ -1,0 +1,29 @@
+﻿@page
+@model MiniAccountMangementSystemController.Identity.Pages.Account.IndexModel
+
+<h1>Chart of Accounts</h1>
+
+<a asp-page="Create" class="btn btn-primary">Create New Account</a>
+
+<table class="table table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>Account Name</th>
+            <th>Parent Account</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var account in Model.Accounts)
+        {
+            <tr>
+                <td>@account.AccountName</td>
+                <td>@Model.GetParentAccountName(account.ParentAccountId)</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@account.AccountId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-page="Delete" asp-route-id="@account.AccountId" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

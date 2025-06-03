@@ -10,6 +10,10 @@ namespace MiniAccountManagementSystem.Models
 {
    public class ApplicationUser: IdentityUser<string>
     {
+        public ApplicationUser()
+        {
+            Id = Guid.NewGuid().ToString(); // 🔐 Set the primary key manually
+        }
         public string FullName { get; set; }
       
     }

@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using MiniAccountManagementSystem.Handler;
 using MiniAccountManagementSystem.Models;
 using MiniAccountManagementSystem.Repositories;
 using MiniAccountManagementSystem.Repositories.Data;
@@ -30,6 +31,8 @@ builder.Services.ConfigureApplicationCookie(options =>
 });
 
 builder.Services.AddHiringActivityRepositories(builder.Configuration);
+builder.Services.AddScoped<AccountRepository>();
+builder.Services.AddScoped<AccountService>();
 
 builder.Services.AddRazorPages();
 
@@ -45,7 +48,12 @@ using (var scope = app.Services.CreateScope())
     {
         if (!await roleManager.RoleExistsAsync(role))
         {
-            await roleManager.CreateAsync(new ApplicationRole { Name = role });
+            await roleManager.CreateAsync(new ApplicationRole
+            {
+                Id = Guid.NewGuid().ToString(), // ?? generate Id
+                Name = role,
+                NormalizedName = role.ToUpper()
+            });
         }
     }
 }

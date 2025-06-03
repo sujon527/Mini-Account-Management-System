@@ -1,0 +1,31 @@
+﻿@page "{id:int}"
+@model MiniAccountMangementSystemController.Areas.Identity.Pages.Account.EditModel
+@{
+    ViewData["Title"] = "Edit Account";
+}
+
+<h2>Edit Account</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Account.AccountId" />
+
+    <div>
+        <label asp-for="Account.AccountName"></label>
+        <input asp-for="Account.AccountName" />
+        <span asp-validation-for="Account.AccountName"></span>
+    </div>
+
+    <div>
+        <label asp-for="Account.ParentAccountId"></label>
+        <select asp-for="Account.ParentAccountId" asp-items="Model.ParentAccounts">
+            <option value="">-- Select Parent Account (optional) --</option>
+            <!-- Populate with your parent accounts -->
+        </select>
+    </div>
+
+    <button type="submit">Save</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
